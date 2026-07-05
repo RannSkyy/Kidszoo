@@ -1,0 +1,8 @@
+{
+  "name": "Kidszoo",
+  "description": "Kidszoo is an interactive early learning platform for children to master letters, numbers, shapes, and reading through fun games, rich animations, and speech-enabled lessons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
